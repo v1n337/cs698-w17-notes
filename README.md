@@ -1,1 +1,1 @@
-# cs698-w17-notes
+# CS698 - Winter 2017 - Machine Learning
